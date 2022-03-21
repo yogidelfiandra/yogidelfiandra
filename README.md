@@ -4,7 +4,7 @@
 
 ### About Me 🚀
 🌱 I’m a Front-end Developer. <br />
-👨‍💻 I'm currently learning about react technology & I enjoy learning new things. <br /> <br />
+👨‍💻 I'm currently learning about reactjs framework & I enjoy learning new things. <br /> <br />
 
 
 ### Tech Stack
